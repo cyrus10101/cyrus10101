@@ -1,9 +1,46 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0" version="26.0.5">
   <diagram name="Page-1" id="4oncaI_nf6xwtP5Qiyy8">
-    <mxGraphModel>
+    <mxGraphModel dx="1508" dy="1124" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="_YZZ_syOvSxUPzCO9iPu-15" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="_YZZ_syOvSxUPzCO9iPu-2" target="_YZZ_syOvSxUPzCO9iPu-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_YZZ_syOvSxUPzCO9iPu-2" value="Lexical Analysis" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="64" y="149" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_YZZ_syOvSxUPzCO9iPu-8" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="_YZZ_syOvSxUPzCO9iPu-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="123.45631067961176" y="37" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_YZZ_syOvSxUPzCO9iPu-5" value="Input" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="67" y="-66" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_YZZ_syOvSxUPzCO9iPu-9" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" target="_YZZ_syOvSxUPzCO9iPu-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="122.53571428571422" y="97" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_YZZ_syOvSxUPzCO9iPu-10" value="Parsing" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="237" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_YZZ_syOvSxUPzCO9iPu-16" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="_YZZ_syOvSxUPzCO9iPu-11" target="_YZZ_syOvSxUPzCO9iPu-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_YZZ_syOvSxUPzCO9iPu-11" value="Bytecode Compilation" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="316" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_YZZ_syOvSxUPzCO9iPu-14" value="Output" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="505" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_YZZ_syOvSxUPzCO9iPu-17" value="interpreter" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="64" y="39" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_YZZ_syOvSxUPzCO9iPu-18" value="Executes" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="64" y="402" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
